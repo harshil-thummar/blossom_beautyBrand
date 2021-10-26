@@ -1,0 +1,354 @@
+{
+    "allText": [
+        {
+            "textId": "Herbivore",
+            "languageTextList": [
+                {
+                    "fr": "Herbivore"
+                },
+                {
+                    "ar": "عاشب"
+                },
+                {
+                    "ja": "草食動物"
+                }
+            ]
+        },
+        {
+            "textId": "Cinema Srcrets",
+            "languageTextList": [
+                {
+                    "fr": "Cinéma Srcèdes"
+                },
+                {
+                    "ar": "سينما srcrets."
+                },
+                {
+                    "ja": "映画のSrcrets."
+                }
+            ]
+        },
+        {
+            "textId": "Hair",
+            "languageTextList": [
+                {
+                    "fr": "Cheveux"
+                },
+                {
+                    "ar": "شعر"
+                },
+                {
+                    "ja": "髪"
+                }
+            ]
+        },
+        {
+            "textId": "Dyson",
+            "languageTextList": [
+                {
+                    "fr": "Dyson"
+                },
+                {
+                    "ar": "دايسون"
+                },
+                {
+                    "ja": "ジソン"
+                }
+            ]
+        },
+        {
+            "textId": "Eyelash Tool",
+            "languageTextList": [
+                {
+                    "fr": "Outil de cils"
+                },
+                {
+                    "ar": "أداة رمش"
+                },
+                {
+                    "ja": "まつげツール"
+                }
+            ]
+        },
+        {
+            "textId": "Blender",
+            "languageTextList": [
+                {
+                    "fr": "Mixeur"
+                },
+                {
+                    "ar": "الخلاط"
+                },
+                {
+                    "ja": "ブリンダー"
+                }
+            ]
+        },
+        {
+            "textId": "HV",
+            "languageTextList": [
+                {
+                    "fr": "Hv"
+                },
+                {
+                    "ar": "هبة"
+                },
+                {
+                    "ja": "hv"
+                }
+            ]
+        },
+        {
+            "textId": "CS",
+            "languageTextList": [
+                {
+                    "fr": "Cs"
+                },
+                {
+                    "ar": "CS."
+                },
+                {
+                    "ja": "CS."
+                }
+            ]
+        },
+        {
+            "textId": "HR",
+            "languageTextList": [
+                {
+                    "fr": "HEURE"
+                },
+                {
+                    "ar": "انتشر"
+                },
+                {
+                    "ja": "h"
+                }
+            ]
+        },
+        {
+            "textId": "DN",
+            "languageTextList": [
+                {
+                    "fr": "Dn"
+                },
+                {
+                    "ar": "DN."
+                },
+                {
+                    "ja": "DN."
+                }
+            ]
+        },
+        {
+            "textId": "ET",
+            "languageTextList": [
+                {
+                    "fr": "ET"
+                },
+                {
+                    "ar": "وآخرون"
+                },
+                {
+                    "ja": "継承"
+                }
+            ]
+        },
+        {
+            "textId": "BD",
+            "languageTextList": [
+                {
+                    "fr": "Bd"
+                },
+                {
+                    "ar": "بات"
+                },
+                {
+                    "ja": "b"
+                }
+            ]
+        },
+        {
+            "textId": "Chanel Cerest",
+            "languageTextList": [
+                {
+                    "fr": "Cereste Chanel"
+                },
+                {
+                    "ar": "شانيل سيريست"
+                },
+                {
+                    "ja": "シャネルセレスト"
+                }
+            ]
+        },
+        {
+            "textId": "Cancel",
+            "languageTextList": [
+                {
+                    "fr": "Annuler"
+                },
+                {
+                    "ar": "يلغي"
+                },
+                {
+                    "ja": "キャンセル"
+                }
+            ]
+        },
+        {
+            "textId": "Selected Products",
+            "languageTextList": [
+                {
+                    "fr": "Produits sélectionnés"
+                },
+                {
+                    "ar": "المنتجات المختارة"
+                },
+                {
+                    "ja": "選択された製品"
+                }
+            ]
+        },
+        {
+            "textId": "Paste the product link here...",
+            "languageTextList": [
+                {
+                    "fr": "Coller le lien du produit ici ..."
+                },
+                {
+                    "ar": "لصق رابط المنتج هنا ..."
+                },
+                {
+                    "ja": "ここに製品リンクを貼り付けます..."
+                }
+            ]
+        },
+        {
+            "textId": "Tanning",
+            "languageTextList": [
+                {
+                    "fr": "Bronzage"
+                },
+                {
+                    "ar": "دباغة الجلود"
+                },
+                {
+                    "ja": "日焼け"
+                }
+            ]
+        },
+        {
+            "textId": "Night Cream",
+            "languageTextList": [
+                {
+                    "fr": "Crème de nuit"
+                },
+                {
+                    "ar": "كريم الليل"
+                },
+                {
+                    "ja": "夜のクリーム"
+                }
+            ]
+        },
+        {
+            "textId": "Tanning",
+            "languageTextList": [
+                {
+                    "fr": "Bronzage"
+                },
+                {
+                    "ar": "دباغة الجلود"
+                },
+                {
+                    "ja": "日焼け"
+                }
+            ]
+        },
+        {
+            "textId": "Night Cream",
+            "languageTextList": [
+                {
+                    "fr": "Crème de nuit"
+                },
+                {
+                    "ar": "كريم الليل"
+                },
+                {
+                    "ja": "夜のクリーム"
+                }
+            ]
+        },
+        {
+            "textId": "Create New Post",
+            "languageTextList": [
+                {
+                    "fr": "Créer un nouveau post"
+                },
+                {
+                    "ar": "إنشاء وظيفة جديدة"
+                },
+                {
+                    "ja": "新しい投稿を作成します"
+                }
+            ]
+        },
+        {
+            "textId": "Post",
+            "languageTextList": [
+                {
+                    "fr": "Poster"
+                },
+                {
+                    "ar": "بريد"
+                },
+                {
+                    "ja": "役職"
+                }
+            ]
+        },
+        {
+            "textId": "Have something to share with the community?",
+            "languageTextList": [
+                {
+                    "fr": "Avoir quelque chose à partager avec la communauté?"
+                },
+                {
+                    "ar": "لديك شيء للمشاركة مع المجتمع؟"
+                },
+                {
+                    "ja": "コミュニティと共有するものがありますか？"
+                }
+            ]
+        },
+        {
+            "textId": "Sophia Doyle",
+            "languageTextList": [
+                {
+                    "fr": "Sophia Doyle"
+                },
+                {
+                    "ar": "صوفيا دويل"
+                },
+                {
+                    "ja": "ソフィアドイル"
+                }
+            ]
+        },
+        {
+            "textId": "Discover",
+            "languageTextList": [
+                {
+                    "fr": "Découvrir"
+                },
+                {
+                    "ar": "يكتشف"
+                },
+                {
+                    "ja": "発見"
+                }
+            ]
+        }
+    ]
+}
